@@ -12,7 +12,9 @@ Once installed, navigate to the Plugin Manager in the main Plover window. From t
 
 If you run Plover from source you can alternatively install it directly with pip or you can check out a copy of this repository and install it locally with pip like so::
 
-    pip install -e /path/to/repo
+``` bash
+pip install -e /path/to/repo
+```
 
 ## Usage
 
