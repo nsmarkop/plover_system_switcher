@@ -8,17 +8,17 @@ active system.
 Installation
 ------------
 
-*This plugin has not been released on PyPI yet, so locally installing
-from source is currently the only option.*
-
 Download the latest version of Plover for your operating system from the
 `releases page <https://github.com/openstenoproject/plover/releases>`__.
 Only versions 4.0.0.dev6 and higher are supported.
 
-Once installed, navigate to the Plugin Manager in the main Plover
-window. From there you should see the “plover-system-switcher” plugin
-which you can select and install to use after restarting Plover. The
-same method can be used for updating and uninstalling the plugin.
+1. Open Plover
+2. Navigate to the Plugin Manager tool
+3. Select the “plover-system-switcher” plugin entry in the list
+4. Click install
+5. Restart Plover
+
+The same method can be used for updating and uninstalling the plugin.
 
 If you run Plover from source you can alternatively install it directly
 with pip or you can check out a copy of this repository and install it
