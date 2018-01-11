@@ -14,12 +14,6 @@ Download the latest version of Plover for your operating system from the [releas
 
 The same method can be used for updating and uninstalling the plugin.
 
-If you run Plover from source you can alternatively install it directly with pip or you can check out a copy of this repository and install it locally with pip like so::
-
-``` bash
-pip install -e /path/to/repo
-```
-
 ## Usage
 
 In order to use this plugin you just need to create a dictionary entry of the form:

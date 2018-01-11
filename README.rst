@@ -20,14 +20,6 @@ Only versions 4.0.0.dev6 and higher are supported.
 
 The same method can be used for updating and uninstalling the plugin.
 
-If you run Plover from source you can alternatively install it directly
-with pip or you can check out a copy of this repository and install it
-locally with pip like so::
-
-.. code:: bash
-
-    pip install -e /path/to/repo
-
 Usage
 -----
 
